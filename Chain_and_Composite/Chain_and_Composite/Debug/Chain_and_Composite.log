@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\zdravko\documents\github\c-object-oriented-programming\chain_and_composite\chain_and_composite\source.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\zdravko\documents\github\c-object-oriented-programming\chain_and_composite\chain_and_composite\source.cpp(69): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chain_and_Composite.vcxproj -> C:\Users\Zdravko\Documents\GitHub\C-object-oriented-programming\Chain_and_Composite\Debug\Chain_and_Composite.exe
+  Chain_and_Composite.vcxproj -> C:\Users\Zdravko\Documents\GitHub\C-object-oriented-programming\Chain_and_Composite\Debug\Chain_and_Composite.pdb (Partial PDB)
