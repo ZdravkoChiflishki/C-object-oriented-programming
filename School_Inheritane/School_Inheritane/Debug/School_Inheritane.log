@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\zdravko\documents\github\c-object-oriented-programming\school_inheritane\school_inheritane\source.cpp(214): warning C4390: ';': empty controlled statement found; is this the intent?
+  School_Inheritane.vcxproj -> C:\Users\Zdravko\Documents\GitHub\C-object-oriented-programming\School_Inheritane\Debug\School_Inheritane.exe
+  School_Inheritane.vcxproj -> C:\Users\Zdravko\Documents\GitHub\C-object-oriented-programming\School_Inheritane\Debug\School_Inheritane.pdb (Partial PDB)
