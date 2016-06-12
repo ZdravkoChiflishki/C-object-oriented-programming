@@ -1,0 +1,46 @@
+﻿  Source.cpp
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u0413' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u0448' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(24): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u0413' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u0448' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(32): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(132): warning C4018: '<=': signed/unsigned mismatch
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(173): warning C4018: '<': signed/unsigned mismatch
+c:\users\zdravko\documents\github\c-object-oriented-programming\bag and set\source.cpp(140): warning C4715: 'Set::checkForRepeats': not all control paths return a value
+  Bag and Set.vcxproj -> C:\Users\Zdravko\Documents\GitHub\C-object-oriented-programming\Bag and Set\Debug\Bag and Set.exe
+  Bag and Set.vcxproj -> C:\Users\Zdravko\Documents\GitHub\C-object-oriented-programming\Bag and Set\Debug\Bag and Set.pdb (Partial PDB)
